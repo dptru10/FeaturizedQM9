@@ -1,7 +1,3 @@
 files
-X_sample_cluster_centroids.csv
+X_sample_random_undersampler.csv
 X_sample_cnn.csv
-X_sample_instance_hardness.csv
-X_sample_near_miss.csv
-X_sample_one_sided.csv
-X_sample_tomek.csv
